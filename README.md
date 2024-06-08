@@ -1,6 +1,6 @@
 ### Hi there 👋
-- All my repos are stored in a private gitea instance
-- Made this account for PRs
+
+Account used for PR's and public repos
 <!--
 **kproc/kproc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
